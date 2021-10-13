@@ -70,7 +70,35 @@
         },
         {
             "finance": [
-                {}
+                {
+                    "name": "USA Cares",
+                    "acronym": "",
+                    "url": "https://usacares.org/",
+                    "mission": "USA Cares provides financial and advocacy assistance to post-9/11 active duty US military personnel, veterans and their families. ",
+                    "services": [
+                        "combat injured",
+                        "housing assistance",
+                        "emergency assistance",
+                        "career transition assistance",
+                        "certified military housing specialist program",
+                        "senior leaders corporate fellowship program",
+                        "financial education & enpowerment program",
+                        {
+                            "resources": "https://usacares.org/programs/#Resources"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "bystate": [
+        {
+            "state": "michigan",
+            "resources": [
+                {
+                    "name": "Michigan Veterans Affairs Agency",
+                    "url": "https://www.michigan.gov/mvaa"
+                }
             ]
         }
     ]
