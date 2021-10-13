@@ -1,0 +1,77 @@
+{
+    "lifeafter": [
+        {
+            "health": [
+                {}
+            ]
+        },
+        {
+            "spiritual": [
+                {}
+            ]
+        },
+        {
+            "family": [
+                {}
+            ]
+        },
+        {
+            "personal": [
+                {}
+            ]
+        },
+        {
+            "social": [
+                {
+                    "name": "Team RWB",
+                    "acronym": "",
+                    "url": "https://www.teamrwb.org/",
+                    "mission": "The mission of Team Red, White & Blue (Team RWB) is to enrich the lives of America’s veterans by connecting them to their community through physical and social activity.",
+                    "services": ""
+                },
+                {
+                    "name": "Team Rubicon",
+                    "acronym": "",
+                    "url": "https://teamrubiconusa.org/",
+                    "mission": "Team Rubicon serves communities by mobilizing veterans to continue their service, leveraging their skills and experience to help people prepare, respond, and recover from disasters and humanitarian crises.",
+                    "services": ""
+                },
+                {
+                    "name": "Wounded Warrior Project",
+                    "acronym": "WWP",
+                    "url": "https://www.woundedwarriorproject.org/",
+                    "mission": "",
+                    "services": ""
+                },
+                {
+                    "name": "Veterans of Foreign Wars",
+                    "acronym": "VFW",
+                    "url": "https://www.vfw.org/",
+                    "mission": "",
+                    "services": ""
+                },
+                {
+                    "name": "The American Legion",
+                    "acronym": "",
+                    "url": "https://www.legion.org/",
+                    "mission": "",
+                    "services": ""
+                }
+            ]
+        },
+        {
+            "career": [
+                {
+                    "name": "Compensated Workplace Therapy",
+                    "acronym": "CWT",
+                    "url": "https://www.va.gov/HEALTH/cwt/"
+                }
+            ]
+        },
+        {
+            "finance": [
+                {}
+            ]
+        }
+    ]
+}
