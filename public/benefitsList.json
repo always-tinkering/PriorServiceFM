@@ -2,12 +2,49 @@
     "lifeafter": [
         {
             "health": [
-                {}
-            ]
-        },
-        {
-            "spiritual": [
-                {}
+                {
+                    "phsycial": [],
+                    "medical": [],
+                    "mental": [
+                        {
+                            "name": "Veterans Administration",
+                            "acronym": "",
+                            "url": "https://www.va.gov",
+                            "mission": "",
+                            "services": ""
+                        },
+                        {
+                            "name": "Vet Centers",
+                            "acronym": "",
+                            "url": "",
+                            "mission": "",
+                            "services": ""
+                        }
+                    ],
+                    "spiritual": [
+                        {
+                            "name": "Chaplains",
+                            "acronym": "",
+                            "url": "",
+                            "mission": "",
+                            "services": ""
+                        },
+                        {
+                            "name": "Grace Centers of Hope",
+                            "acronym": "",
+                            "url": "",
+                            "mission": "",
+                            "services": ""
+                        },
+                        {
+                            "name": "Salvation",
+                            "acronym": "",
+                            "url": "",
+                            "mission": "",
+                            "services": ""
+                        }
+                    ]
+                }
             ]
         },
         {
@@ -16,7 +53,7 @@
             ]
         },
         {
-            "personal": [
+            "housing": [
                 {}
             ]
         },
@@ -34,7 +71,8 @@
                     "acronym": "",
                     "url": "https://teamrubiconusa.org/",
                     "mission": "Team Rubicon serves communities by mobilizing veterans to continue their service, leveraging their skills and experience to help people prepare, respond, and recover from disasters and humanitarian crises.",
-                    "services": ""
+                    "services": "",
+                    "contacts": []
                 },
                 {
                     "name": "Wounded Warrior Project",
@@ -56,20 +94,43 @@
                     "url": "https://www.legion.org/",
                     "mission": "",
                     "services": ""
+                },
+                {
+                    "name": "Project Brotherhood",
+                    "acronym": "",
+                    "url": "",
+                    "mission": "",
+                    "services": ""
                 }
             ]
         },
         {
-            "career": [
+            "employment/career": [
                 {
                     "name": "Compensated Workplace Therapy",
                     "acronym": "CWT",
                     "url": "https://www.va.gov/HEALTH/cwt/"
+                },
+                {
+                    "name": "VR&E (Vocational Rehabilition & Education)",
+                    "acronym": "",
+                    "url": "",
+                    "mission": "",
+                    "services": ""
                 }
             ]
         },
         {
-            "finance": [
+            "finance": {
+                "reimbursement": [{
+                    "name": "VA FSC(look it up)",
+                    "acronym": "",
+                    "url": "",
+                    "mission": "",
+                    "services": "Reimbursement for travel to and from appointments for the VA"
+                }]
+            },
+            "3rd parties": [
                 {
                     "name": "USA Cares",
                     "acronym": "",
@@ -103,3 +164,5 @@
         }
     ]
 }
+
+Presented by Reconsider + Horizons PBC, in coalition with Evolutio + Heroic Hearts + The Hope-Project + Mission Within + SEAL Future Foundation + Vail Veterans + VETS
