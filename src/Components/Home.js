@@ -1,6 +1,7 @@
 import React from "react";
 import InfoCard from "./InfoCard";
 import Footer from "./Footer";
+import Header from "./Header";
 import { Widget } from '@typeform/embed-react'
 
 const MyComponent = () => {
@@ -10,18 +11,7 @@ const MyComponent = () => {
 export default function Home() {
   return (
     <div className="home">
-      <div className="header">
-        <div>
-          <div>
-            <img src="/images/iwojima.png" alt="Iwo Jima" />
-          </div>
-        </div>
-        <div>
-          <div>Opportunity</div>
-          <div>Explore</div>
-          <div>Apply</div>
-        </div>
-      </div>
+      <Header />
       <div
         style={{
           display: "flex",

@@ -14,9 +14,6 @@ export default function InfoCard({ title, info }) {
       >
         <Card.Body>
           <Card.Title>{title}</Card.Title>
-          <Card.Subtitle className="mb-2 text-muted">
-            Card Subtitle
-          </Card.Subtitle>
           <Card.Text>{info}</Card.Text>
           <Button variant="outline-dark">Click</Button>
         </Card.Body>

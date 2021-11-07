@@ -10,9 +10,8 @@ export default function Header() {
         </div>
       </div>
       <div>
-        <div>Opportunity</div>
-        <div>Explore</div>
-        <div>Apply</div>
+        <h1>Prior Service Field Manual</h1>
+        <div>Opportunity • Explore • Apply</div>
       </div>
     </div>
   );
