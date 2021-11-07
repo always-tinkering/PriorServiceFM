@@ -1692,6 +1692,19 @@
   dependencies:
     "@babel/runtime" "^7.12.5"
 
+"@typeform/embed-react@^1.1.3":
+  version "1.1.3"
+  resolved "https://registry.yarnpkg.com/@typeform/embed-react/-/embed-react-1.1.3.tgz#f668df9c17573453222a0d3e006f4d9eaf266538"
+  integrity sha512-fGHGEcIu6S96m220oqvg/9pEhs0mSPJH/8Zqf+ZOw/1E6F1uN84qCyDw2ePkxygNvPAjzOw5IA207o1vGh6BNQ==
+  dependencies:
+    "@typeform/embed" "^1.10.0"
+    fast-deep-equal "^3.1.3"
+
+"@typeform/embed@^1.10.0":
+  version "1.21.1"
+  resolved "https://registry.yarnpkg.com/@typeform/embed/-/embed-1.21.1.tgz#0c27b0b12aca68344392dbe442e2df75b57e6a02"
+  integrity sha512-+LvdYfGDmenMj3JlZA+gfX32kX2Sb2SM/9jCAvkzVC34JSZ9/ECFIAG1DsPz1pG6VbG+EtTyErI21UYu5trnAw==
+
 "@types/anymatch@*":
   version "1.3.1"
   resolved "https://registry.npmjs.org/@types/anymatch/-/anymatch-1.3.1.tgz"
@@ -4969,7 +4982,7 @@ extsprintf@^1.2.0:
   resolved "https://registry.npmjs.org/extsprintf/-/extsprintf-1.4.0.tgz"
   integrity sha1-4mifjzVvrWLMplo6kcXfX5VRaS8=
 
-fast-deep-equal@^3.1.1:
+fast-deep-equal@^3.1.1, fast-deep-equal@^3.1.3:
   version "3.1.3"
   resolved "https://registry.npmjs.org/fast-deep-equal/-/fast-deep-equal-3.1.3.tgz"
   integrity sha512-f3qQ9oQy9j2AhBe/H9VC91wLmKBCCU/gDOnKNAYG5hswO7BLKj09Hc5HYNz9cGI++xlpDCIgDaitVs03ATR84Q==
