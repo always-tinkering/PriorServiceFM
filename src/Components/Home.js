@@ -1,6 +1,11 @@
 import React from "react";
 import InfoCard from "./InfoCard";
 import Footer from "./Footer";
+import { Widget } from '@typeform/embed-react'
+
+const MyComponent = () => {
+  return <Widget id="L30MTwVa" style={{ width: '50%' }} className="my-form" />
+}
 
 export default function Home() {
   return (
@@ -30,6 +35,9 @@ export default function Home() {
         <InfoCard title="Reserve" info="lorem ipsum" />
         <InfoCard title="Non-Veteran" info="lorem ipsum" />
       </div>
+
+      <MyComponent/>
+
       <Footer />
     </div>
   );
